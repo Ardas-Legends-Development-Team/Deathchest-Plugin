@@ -1,0 +1,5 @@
+name: DeathChest
+version: '${project.version}'
+main: com.jukoz.deathchest.DeathChest
+authors: [ Jukoz ]
+description: Keeps players inventory into a death chest.

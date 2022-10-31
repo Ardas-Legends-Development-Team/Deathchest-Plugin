@@ -1,5 +1,0 @@
-name: DeathChest
-author: Jukoz
-version: 1.2
-main: me.Jukoz.DeathChest.DeathChest
-description: It's a DeathChest plugin, when a player die, a chest is placed with his backpack inventory (9 to 35 slots).
